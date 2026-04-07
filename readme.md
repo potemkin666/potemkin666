@@ -2,9 +2,9 @@
   <img src="https://github.com/user-attachments/assets/ecce7c07-a6e7-4b58-b606-0497fdd2a5fa" width="100%" alt="Ocean background" />
 </div>
 
-<h1 align="center">🌊 Ocean Profile</h1>
+<h1 align="center">🌊 Battleship Potemkin </h1>
 <p align="center">
-  Drifting through code, currents, and ideas.
+  Drifting through life.
 </p>
 
 <p align="center">
@@ -14,12 +14,7 @@
 ---
 
 ### 🌐 About
-- Ocean-themed builder
-- Shipping ideas one commit at a time
-- Exploring new depths in tech
+- I'm just a fish
+ 
 
-### 🧰 Stack
-`JavaScript` · `TypeScript` · `Python` · `GitHub` · `Open Source`
-
-### 📫 Contact
-Open an issue or drop a message. Collaboration welcome.
+ 
